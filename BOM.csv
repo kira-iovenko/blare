@@ -1,0 +1,12 @@
+Component,Qty,Designator,Unit Price (USD),Total Price (USD),Purchase Link,Notes
+Seeed Studio XIAO ESP32C3,1,U1,4.99,4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html,Main microcontroller; unsoldered version; excludes shipping/tax
+2.25in ST7789 TFT display (76x284),1,-,4.28,4.28,https://www.aliexpress.us/item/3256809062781172.html,Connected to J1 with jumper wires; estimated price
+MX-style mechanical switches,6,-,0.40,2.40,https://www.aliexpress.com/w/wholesale-mx-mechanical-switch.html,Wired directly to GPIO (no matrix); estimated price
+Blank DSA keycaps white,6,-,0.60,3.60,https://www.aliexpress.com/w/wholesale-blank-dsa-keycaps.html,MX-compatible; estimated price
+3.3V piezo buzzer,1,BZ1,0.05,0.05,https://www.aliexpress.us/item/3256813197582507.html,Estimated price
+2.54mm 8-pin male header,1,J1,1.18,1.18,https://www.aliexpress.us/item/3256809277554207.html,Screen connector; estimated price
+20cm female-female jumper wires,8,-,-,-,https://www.aliexpress.us/item/3256802412794075.html,Screen to J1; check the price
+M3 x 5 x 4 mm heat-set inserts,14,-,0.25,3.50,https://www.aliexpress.com/w/wholesale-m3-heat-set-insert.html,Verify dimensions; estimated price
+M3 x 6 mm screw,14,-,0.15,2.10,https://www.mcmaster.com/products/socket-head-screws/thread-size~m3/,Enclosure fastener; estimated price
+Custom BLARE PCB (2-layer),1,-,2.00,2.00,https://jlcpcb.com/,Custom fabricated PCB; manufacturing minimum may exceed 1 board; estimated price
+3D-printed case (4 parts),1,-,-,-,,Custom printed from repository CAD files; check price

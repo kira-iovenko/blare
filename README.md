@@ -65,6 +65,24 @@ When the alarm rings, **OK** snoozes it. Any other key brings up the stop code: 
 - Fusion 360 (case)
 - Arduino + Adafruit GFX (firmware)
 
+## BOM (Bill of Materials)
+
+The full parts list is in **[`BOM.csv`](BOM.csv)**.
+
+| Component | Qty | Purchase/source |
+|---|---:|---|
+| Seeed Studio XIAO ESP32C3 | 1 | [Link](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+| 2.25" ST7789 TFT display (76x284) | 1 | [Link](https://www.aliexpress.us/item/3256809062781172.html) |
+| MX-style mechanical switches | 6 | [Link](https://www.aliexpress.com/w/wholesale-mx-mechanical-switch.html) |
+| White blank DSA keycaps | 6 | [Link](https://www.aliexpress.com/w/wholesale-blank-dsa-keycaps.html) |
+| 3.3V piezo buzzer | 1 | [Link](https://www.aliexpress.us/item/3256813197582507.html) |
+| 2.54 mm 8-pin male header | 1 | [Link](https://www.aliexpress.us/item/3256809277554207.html) |
+| 20 cm female-female jumper wires | 8 | [Link](https://www.aliexpress.us/item/3256802412794075.html) |
+| M3x5x4 heat-set inserts | 14 | [Link](https://www.aliexpress.com/w/wholesale-m3-heat-set-insert.html) |
+| M3x6 mm screws | 14 | [Link](https://www.mcmaster.com/products/socket-head-screws/thread-size~m3/) |
+| Custom BLARE PCB (2-layer) | 1 | [Link](https://jlcpcb.com/), [`production/gerbers.zip`](production/) |
+| 3D-printed case (4 parts) | 1 | [`production/`](production/) |
+
 ## Inspiration
 
 I built this by following Hack Club's [BLARE](https://blare.hackclub.com/docs) guide.
